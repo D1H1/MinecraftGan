@@ -1,4 +1,4 @@
-![Снимок экрана от 2023-08-24 03-34-12](https://github.com/D1H1/MinecraftGan/assets/94292673/8c60450e-67e7-4e91-bfbb-b5a58c916ed8)# MinecraftGan
+# MinecraftGan
 First test attempt to create GAN model for minecraft skin textures. Next project will be C-WGAN-GP.
 
 Original notebook: https://www.kaggle.com/code/davidhavrilenko/minecraftgantest/settings
